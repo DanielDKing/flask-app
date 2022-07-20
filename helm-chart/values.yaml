@@ -1,0 +1,5 @@
+app:
+  name: my-first-app
+  replicas: 2
+  image: flask-app
+  imageTag: v0.0.1
