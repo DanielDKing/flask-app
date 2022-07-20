@@ -1,2 +1,2 @@
 # Simple flask app
-Flask app the deployed with helm on kuberenetes and monitored with prometheus.
+Flask app that deployed with helm.
